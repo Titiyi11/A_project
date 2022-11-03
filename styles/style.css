@@ -5,7 +5,13 @@
 }
 
 .bbb {
-  width: 400px;
-  height: 600px;
+  width: 600px;
+  height: 300px;
   background-color: #dac;
+}
+
+div {
+  margin: 10px auto;
+  padding: 15px;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
